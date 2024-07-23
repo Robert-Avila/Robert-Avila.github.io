@@ -54,7 +54,7 @@ Este projeto implementa uma tela de login utilizando uma stack moderna de desenv
 
 1. Clone o repositório:
 ```bash
-https://github.com/Robert-Avila/Robert-Avila.github.io.git
+git clone https://github.com/Robert-Avila/Robert-Avila.github.io.git
 ```
 
 2. Navegue até o diretório do projeto:
