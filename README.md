@@ -5,13 +5,14 @@ Este projeto implementa uma tela de login utilizando uma stack moderna de desenv
 
 ## Layout web
 
-<img width="800" alt="img1" src="https://github.com/user-attachments/assets/b1bbf6c7-ddcf-4895-9e68-ca89d368707d">
-<img width="800" alt="img2" src="https://github.com/user-attachments/assets/52e87aa1-6a40-46a2-8dc8-47cbc0264c8e">
-<img width="800" alt="img3" src="https://github.com/user-attachments/assets/971cb12f-3710-44aa-86e9-9567d82c59be">
-<img width="800" alt="img3b" src="https://github.com/user-attachments/assets/daa5a0b5-3ddd-4ab2-b442-26b4c69afc11">
-<img width="464" alt="img5" src="https://github.com/user-attachments/assets/e6ca03df-f415-4d9c-923e-951fec3cbef8">
-<img width="800" alt="img6" src="https://github.com/user-attachments/assets/859080ea-cf74-4b4c-b85d-e0efab88a3e4">
-<img width="800" alt="img7" src="https://github.com/user-attachments/assets/46635ca4-fe16-4d45-b757-da8931fce01e">
+<img width="800" alt="img1" src="https://github.com/user-attachments/assets/e321739e-7902-44f4-af85-76dbc8afcfc8">
+<img width="800" alt="img2" src="https://github.com/user-attachments/assets/8efdf52e-e919-4f52-a852-385ddfe1b178">
+<img width="800" alt="img3" src="https://github.com/user-attachments/assets/c6a89abd-cc68-4140-bd03-0b0fde7f07da">
+<img width="800" alt="img3b" src="https://github.com/user-attachments/assets/27add42c-408a-4c4e-88a7-34acd8fea931">
+<img width="464" alt="img5" src="https://github.com/user-attachments/assets/4f44d396-d44f-411c-8ad9-81828c1613bf">
+<img width="800" alt="img6" src="https://github.com/user-attachments/assets/ba6d2713-ee9d-4c4f-8b87-46b5bcaaaadb">
+<img width="800" alt="img7" src="https://github.com/user-attachments/assets/615436fe-5e72-434e-ae02-b0e369124c11">
+
 
 
 ## Stack de Tecnologias
