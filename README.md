@@ -59,7 +59,7 @@ git clone https://github.com/Robert-Avila/Robert-Avila.github.io.git
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd nome-do-projeto
+cd tela-de-login
 ```
 
 3. Instale as dependências:
